@@ -20,5 +20,5 @@ def cube(num1):
 def power(num1, num2):
     return num1 ** num2
 
-# def mod(num1, num2):
-#     pass
+def mod(num1, num2):
+    return num1 % num2
